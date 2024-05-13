@@ -10,4 +10,4 @@
 
 ---
 
-Creado con ❤️ por [Angela Milagros Quispe Huanca](https://github.com/Mila18xy/lp3-24a.git) 😊
+Creado con ❤️ por [Angela Milagros Quispe Huanca](https://github.com/Mila18xy/COMPILADORES.git) 😊
