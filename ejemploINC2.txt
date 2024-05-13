@@ -1,0 +1,2 @@
+string num = "123";
+num = num / 2;  // Operación no válida con una cadena
