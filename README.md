@@ -5,7 +5,7 @@
 
 # $${\color{red}EXAMEN}$$
 
-- ${\color{blue}ev1}$
+- ${\color{blue}PARCIAL}$
 
 
 ---
