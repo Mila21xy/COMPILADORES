@@ -1,3 +1,0 @@
-if (x > 5) {
-    cout << "x es mayor que 5";
-}
