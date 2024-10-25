@@ -1,4 +1,0 @@
-float x = "veinte";  // Tipo incorrecto
-if (x) {
-   cout x;
-}
